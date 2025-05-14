@@ -1,2 +1,14 @@
-
+table, th, td {
+	border: 2px solid black;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center
+}
+table{
+	width: 100%;
+}
+.bgBlack{
+	background-color: black;
+	color: white
+}
 /* Your CSS Code here. */
